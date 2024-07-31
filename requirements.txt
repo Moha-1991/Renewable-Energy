@@ -2,3 +2,6 @@ streamlit
 scikit-learn
 pandas
 numpy
+tensorflow ==2.16.2
+uvicorn
+fastapi
